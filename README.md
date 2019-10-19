@@ -1,5 +1,5 @@
 
-# Notes (single page)
+# Notes (Database)
 
 This sample demonstrates a simple cross-platform Notes application that allows you to enter a note and persist it to device storage.
 
